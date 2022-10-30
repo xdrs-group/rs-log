@@ -16,8 +16,8 @@ direction: ltr
 nav:
   首页: /
   归档: /archives/
+  故障: /tags/故障处理/
   论坛: http://rs.xidian.edu.cn
-  邮件: mailto:rs@icampus.top
   Github: https://github.com/xd-ruisi
 
 
