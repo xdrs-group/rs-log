@@ -16,10 +16,10 @@ direction: ltr
 nav:
   首页: /
   归档: /archives/
+  公告: /tags/公告/
   故障: /tags/故障处理/
+  计划: /tags/运维计划/
   论坛: http://rs.xidian.edu.cn
-  Github: https://github.com/xd-ruisi
-
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
@@ -71,7 +71,6 @@ error_404:
   enabled: true
   title: "404 Page Not Found"
   description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
-
 
 ##############################################################################
 # Look and Feel
@@ -125,7 +124,6 @@ colorscheme: classic
 # Maximal width of the page in rem units.
 page_width: 48
 
-
 ##############################################################################
 # Miscellaneous
 ##############################################################################
@@ -140,7 +138,6 @@ open_graph:
   twitter_id:
   google_plus:
 
-
 ##############################################################################
 # Plugins
 ##############################################################################
@@ -148,7 +145,7 @@ open_graph:
 # Enable MathJax support for Latex
 mathjax:
   enabled: false
-  
+
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: false
