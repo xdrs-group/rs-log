@@ -1,7 +1,6 @@
 ---
 title: 【公告】关于睿思宕机的迟来声明
 author: 杨柳清风 | Rui
-abbrlink: 843cf68f
 date: 2022-10-27 20:33:06
 tags:
    - 公告
