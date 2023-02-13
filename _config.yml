@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: RSLOG
+title: RS NEWS
 subtitle: "记录睿思每一天"
 description: ""
 keywords: ["睿思", "西电睿思", "睿思邀请码"]
@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://log.xdrs.site
+url: http://news.xdrs.site
 permalink: archives/:year/:month/:day/:title.html
 permalink_defaults:
 pretty_urls:
